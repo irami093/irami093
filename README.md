@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Idalia Ramirez
 - 👀 I’m interested in Applications Engineering, Cloud Computing, Systems Engineering, and Solutions Architecture.
-- 🌱 I’m currently learning Python!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have four dogs! A Red Merle Aussie and 3 Chihuahua mixes.
 
